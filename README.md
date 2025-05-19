@@ -20,7 +20,6 @@ A modern, responsive personal portfolio website built with **React**, **Tailwind
 - **Styling:** Tailwind CSS  
 - **Animations:** Framer Motion  
 - **Form Handling:** React Hook Form + EmailJS  
-- **Deployment:** Vercel / Netlify  
 
 ---
 
