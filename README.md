@@ -31,7 +31,7 @@ A modern, responsive personal portfolio website built with **React**, **Tailwind
    git clone https://github.com/AbhayCodes-dev/Personal-Portfolio-Website.git
    cd personal-portfolio
 
-2.- install dependencies :
+2. install dependencies :
 ```bash
  npm install
 ```
