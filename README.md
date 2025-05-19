@@ -31,14 +31,19 @@ A modern, responsive personal portfolio website built with **React**, **Tailwind
    git clone https://github.com/AbhayCodes-dev/Personal-Portfolio-Website.git
    cd personal-portfolio
 
-- Set up environment variables, Create .env File:
+2.- install dependencies :
+```bash
+ npm install
+```
+
+3. Set up environment variables, Create .env File:
 ```bash
 VITE_EMAILJS_SERVICE_ID=your_service_id
 VITE_EMAILJS_TEMPLATE_ID=your_template_id
 VITE_EMAILJS_PUBLIC_KEY=your_public_key
 ```
 
-- Run :
+4. Run :
 ```bash
  npm run dev
 ```
